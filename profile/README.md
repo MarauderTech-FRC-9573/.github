@@ -1,5 +1,5 @@
 ## Welcome to the MarauderTech GitHub! 👋🤖🧑‍💻
-MarauderTech is the FIRST Robotics Competition (9573) and VEX Robotics Team from Mira Mesa High School, San Diego, CA. 
+MarauderTech is the FIRST Robotics Competition (9573) and VEX Robotics Team (41171A) from Mira Mesa High School, San Diego, CA. 
 <!--
 
 **Here are some ideas to get you started:**
